@@ -7,7 +7,7 @@ In these notebooks we will learn how to implement a convolutional neural network
 <center><img src = "images/bbox_mnist.png" height="100"></center>
 
 
-2. Then we will modify our model by adding a classification output, so that it can jointly predict the bounding box of the digit and also its class label. [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JEp_fTIHS7bcrOJMsKj6lVC9-AoigpAa?usp=sharing)
+2. Then we will modify our model by adding a classification output, so that it can jointly predict the bounding box of the digit and also its class label. [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jjAUYU1VI9v82d6pFnIUGh8cpHsY1r7C?usp=sharing)
 
 
 ## References
