@@ -2,7 +2,7 @@
 
 In these notebooks we will learn how to implement a convolutional neural network (CNN) regressor to localize digits of the MNIST dataset. We will use the PyTorch library for training our model.
 
-1. The input to our model will be a $64 \times 64$ image with a MNIST digit at any location, and the output of the model are four real numbers that define a bounding box (x, y, width, and height) around the digit.
+1. The input to our model will be a 64 x 64 image with a MNIST digit at any location, and the output of the model are four real numbers that define a bounding box (x, y, width, and height) around the digit.
 
 <center><img src = "images/bbox_mnist.png" height="100"></center>
 
