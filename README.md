@@ -4,8 +4,9 @@ In these notebooks we will learn how to implement a convolutional neural network
 
 1. The input to our model will be a 64 x 64 image with a MNIST digit at any location, and the output of the model are four real numbers that define a bounding box (x, y, width, and height) around the digit. [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JEp_fTIHS7bcrOJMsKj6lVC9-AoigpAa?usp=sharing)
 
-<center><img src = "images/bbox_mnist.png" height="100"></center>
-
+<p align="center">
+<img src = "images/bbox_mnist.png" height="100">
+</p>
 
 2. Then we will modify our model by adding a classification output, so that it can jointly predict the bounding box of the digit and also its class label. [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jjAUYU1VI9v82d6pFnIUGh8cpHsY1r7C?usp=sharing)
 
